@@ -1,0 +1,5 @@
+name: FlameCore
+api: 4.0.0
+version: 1.0.1
+author: MoQi
+main: moqi\flamecore\Loader
